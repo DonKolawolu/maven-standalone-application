@@ -33,6 +33,6 @@ public class HelloWorldTest
      */
     public void testApp()
     {
-        assertTrue( true );
+        assertTrue( false );
     }
 }
